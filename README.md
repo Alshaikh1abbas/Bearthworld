@@ -42,6 +42,6 @@ Bearthworld is a iphone application that allows clients to connect with midwives
 
 **Authors**
 * Abass Alsheikh ; _UMKC E-mail_ : aazdy@mail.umkc.edu
-* Ali Alyami ; _UMKC E-mail_ : aaackcskbgff@mail.umkc.edu
-* Michael Bae ; _UMKC E-mail_ : @mail.umkc.edu
+* Ali Alyami ; _UMKC E-mail_ : aaackc@mail.umkc.edu
+* Michael Bae ; _UMKC E-mail_ : skbgff@mail.umkc.edu
 * Anthony Yos ; _UMKC E-mail_ : avymt9@mail.umkc.edu
