@@ -25,13 +25,23 @@ Bearthworld is a iphone application that allows clients to connect with midwives
 2. Or, run a simulator on xCode using "Bearthworld.xcodeproj" that exist on [( Full project file for xCode - Bearthworld )] folder.
 
 **Video**
-https://www.youtube.com/watch?v=9RPureMdfQU&feature=youtu.be
+[Link](https://www.youtube.com/watch?v=9RPureMdfQU&feature=youtu.be)
+
+**PowerPoint**
+[Link](https://github.com/Alshaikh1abbas/Bearthworld/blob/master/Bearthworld%20Mobile%20Application/BearthWorld%20powerpoint.pptx)
+
+**Project issue:**
+* Linking database with app application.
+* Generate different interface and connect them (clients, midwives, and doulas).
+* Keyboard dismiss causing app crashing.
+* Log In integrity.
+* Create an account and link with social media.
 
 **Team Name:**
 * IOT_Fall2019
 
 **Authors**
-* Abass Alsheikh
-* Ali Alyami
-* Michael Bae
-* Anthony Yos
+* Abass Alsheikh ; _UMKC E-mail_ : aazdy@mail.umkc.edu
+* Ali Alyami ; _UMKC E-mail_ : aaackcskbgff@mail.umkc.edu
+* Michael Bae ; _UMKC E-mail_ : @mail.umkc.edu
+* Anthony Yos ; _UMKC E-mail_ : avymt9@mail.umkc.edu
